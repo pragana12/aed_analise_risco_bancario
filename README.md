@@ -45,7 +45,7 @@ Windows:
 
 ## 📂 Conteúdo do Repositório
 
-1. [Script - Análise de Risco Bancário](scripts/aed_analise_risco_bancario.py)
+1. [Script - Análise de Risco Bancário](scripts/aed_risco_bancario.ipynb)
    - Realiza a análise de risco com base nos dados bancários.
    - Gera visualizações e insights sobre os padrões de comportamento financeiro.
 
